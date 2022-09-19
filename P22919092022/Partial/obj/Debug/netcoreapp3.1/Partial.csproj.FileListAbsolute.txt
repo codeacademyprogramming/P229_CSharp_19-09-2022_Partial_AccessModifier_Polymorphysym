@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P229\P22919092022\Partial\obj\Debug\netcoreapp3.1\Partial.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22919092022\Partial\obj\Debug\netcoreapp3.1\Partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229\P22919092022\Partial\obj\Debug\netcoreapp3.1\Partial.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22919092022\Partial\obj\Debug\netcoreapp3.1\Partial.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229\P22919092022\Partial\obj\Debug\netcoreapp3.1\Partial.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22919092022\Partial\bin\Debug\netcoreapp3.1\Partial.exe
+C:\Users\hamid.mammadov\Desktop\P229\P22919092022\Partial\bin\Debug\netcoreapp3.1\Partial.deps.json
+C:\Users\hamid.mammadov\Desktop\P229\P22919092022\Partial\bin\Debug\netcoreapp3.1\Partial.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P229\P22919092022\Partial\bin\Debug\netcoreapp3.1\Partial.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P229\P22919092022\Partial\bin\Debug\netcoreapp3.1\Partial.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22919092022\Partial\bin\Debug\netcoreapp3.1\Partial.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22919092022\Partial\obj\Debug\netcoreapp3.1\Partial.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22919092022\Partial\obj\Debug\netcoreapp3.1\Partial.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22919092022\Partial\obj\Debug\netcoreapp3.1\Partial.genruntimeconfig.cache
